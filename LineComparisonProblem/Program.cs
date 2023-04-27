@@ -15,6 +15,10 @@ namespace LineComparisonProblem
             Console.WriteLine("==============X=============");
 
             Operation.EqualityCheck(15 , 15.5);
+
+            Console.WriteLine("==============X=============");
+
+            Operation.Comparison(15, 15.5);
         }
     }
 }
