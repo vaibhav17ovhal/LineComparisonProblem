@@ -6,10 +6,6 @@ namespace LineComparisonProblem
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to Line Comparison Program.");
-
-            Console.WriteLine("==============X=============");
-
             Operation.LengthOfLine();
         }
     }
