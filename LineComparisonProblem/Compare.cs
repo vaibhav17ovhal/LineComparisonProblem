@@ -11,6 +11,7 @@ namespace LineComparisonProblem
     {
         public static int line1;
         public static int line2;
+        
         public static int LengthOne()
         {
             Console.Write("Enter the length of line1: ");
