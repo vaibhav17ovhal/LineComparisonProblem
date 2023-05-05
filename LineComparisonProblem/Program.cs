@@ -6,6 +6,7 @@ namespace LineComparisonProblem
     {
         static void Main(string[] args)
         {
+            /*
             Console.WriteLine("Welcome to Line Comparison Program.");
 
             Console.WriteLine("==============X=============");
@@ -19,6 +20,10 @@ namespace LineComparisonProblem
             Console.WriteLine("==============X=============");
 
             Operation.Comparison(15, 15.5);
+            */
+
+            Compare compare = new Compare();
+            compare.Check();
         }
     }
 }
